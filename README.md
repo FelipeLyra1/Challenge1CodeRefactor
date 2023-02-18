@@ -1,7 +1,7 @@
 # Challenge1CodeRefactor
-###Refactoring of Code for the week 1 challenge
+### Refactoring of Code for the week 1 challenge
 
-##User Story
+## User Story
 
 **AS A** marketing agency
 **I WANT** a codebase that follows accessibility standards
